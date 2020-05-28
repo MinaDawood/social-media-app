@@ -3,10 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Social Media App
     Developed by React, Express and Firebase.
     
-## Live Link => https://social-media-app-97855.web.app
-<<<<<<< HEAD
-
-=======
->>>>>>> 856da5212dddcfae474024112033026ffcdc8e75
+## Live Link => https://social-media-app-dawood.netlify.app/
 
 
